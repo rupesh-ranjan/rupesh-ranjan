@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rupesh-ranjan
-- 👀 I’m interested in ... HTML,CSS, Javascript ,PHP, JAVA, C
-- 🌱 I’m currently learning ...JAVA,HTML,CSS
-- 💞️ I’m looking to collaborate on ...JAVA
+- 👀 I’m interested in ... React Js, Javascript, .Net, SQL Server
+- 🌱 I’m currently learning ...JavaScript
+- 💞️ I’m looking to collaborate on ...React JS
 - 📫 How to reach me ...mail me at rupesh.ranjan@outlook.in
 
 <!---
