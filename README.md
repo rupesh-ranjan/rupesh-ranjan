@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `NextJs`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1ClwbPENTBZTmpsUhzWaYx6Gu0PxDlB1O/edit?usp=sharing&ouid=116225110410238963617&rtpof=true&sd=true).
+- :thinking: I’m currently open for a new `job opportunity` as `Frontend Developer`, here is [MY RESUME](https://docs.google.com/document/d/1ClwbPENTBZTmpsUhzWaYx6Gu0PxDlB1O/edit?usp=sharing&ouid=116225110410238963617&rtpof=true&sd=true).
 
 <br>
 
