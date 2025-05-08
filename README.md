@@ -46,7 +46,7 @@
         </li>
         <li>
             <a href="mailto:rupesh.ranjan@outlook.in" target="_blank">
-                <img src="https://img.shields.io/badge/email: rupesh.ranjan@outlook.in-%23D14836.svg?style=for-the-badge&logo=outlook&logoColor=white" alt=email style="margin-bottom: 5px;"/>
+                <img src="https://img.shields.io/badge/email: rupesh.ranjan.dev@gmail.in-%23D14836.svg?style=for-the-badge&logo=outlook&logoColor=white" alt=email style="margin-bottom: 5px;"/>
             </a>
         </li>
     </ul>
