@@ -12,28 +12,36 @@
 
 🤵🏾 **About me**
 
-- :computer: I am a `Software Engineer` at Cognizant.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `NextJs`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity` as `Frontend Developer`, here is [MY RESUME](https://docs.google.com/document/d/1S3xbMUfK9r0HxODXyrxk2LD0FvojOatl/edit?usp=sharing&ouid=116225110410238963617&rtpof=true&sd=true).
+- 💻 I am a `Software Engineer` at Cognizant.  
+- 🧠 I love using Software as a solution for every `Problem`.  
+- 🌱 I’m currently learning **Backend Development** — focusing on `Node.js`, `Express.js`, and `Mongoose`.  
+- 🧑‍💻 Always `learning new technologies` and improving my full-stack skills.  
+- 🚀 I’m open for a new `Frontend Developer` opportunity — here’s [MY RESUME](https://docs.google.com/document/d/1S3xbMUfK9r0HxODXyrxk2LD0FvojOatl/?usp=sharing&ouid=116225110410238963617&rtpof=true&sd=true).
 
 <br>
 
 <div id="user-content-toc">
     <ul align="center">
-        <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+        <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
     </ul>
 </div>
 
-<!--tech stack icons-->
+<!-- Updated Tech Stack Icons -->
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&perline=14" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,firebase,jest,git,github,gitlab,postman,vscode&perline=10" />
     </a>
 </p>
 
-## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<!-- Custom badges for missing technologies -->
+<p align="center">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</p>
+
+---
+
+## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <br>
 
@@ -45,8 +53,8 @@
             </a>
         </li>
         <li>
-            <a href="mailto:rupesh.ranjan.dev@gmail.com" target="_blank">
-                <img src="https://img.shields.io/badge/email: rupesh.ranjan.dev@gmail.com-%23D14836.svg?style=for-the-badge&logo=outlook&logoColor=white" alt=email style="margin-bottom: 5px;"/>
+            <a href="mailto:rupesh131998@gmail.com" target="_blank">
+                <img src="https://img.shields.io/badge/email: rupesh131998@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=email style="margin-bottom: 5px;"/>
             </a>
         </li>
     </ul>
