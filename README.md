@@ -12,7 +12,7 @@
 
 🤵🏾 **About me**
 
-- 💻 I am a `Software Engineer` at Cognizant.  
+- 💻 I am a `Frontend Developer` at Liminal Custody (Test Yantra).  
 - 🧠 I love using Software as a solution for every `Problem`.  
 - 🌱 I’m currently learning **Backend Development** — focusing on `Node.js`, `Express.js`, and `Mongoose`.  
 - 🧑‍💻 Always `learning new technologies` and improving my full-stack skills.  
